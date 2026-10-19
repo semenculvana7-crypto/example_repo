@@ -1,4 +1,1 @@
-print("Hello, Git!")
-
-name = "Vanya"
-print(f"Привет, {name}!")
+print(" Я изучаю Django")
